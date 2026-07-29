@@ -16,4 +16,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
+## Array
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/omkarkangane2005/DSA/tree/master/0704-binary-search) |
+## Binary Search
+|  |
+| ------- |
+| [0704-binary-search](https://github.com/omkarkangane2005/DSA/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->

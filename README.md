@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/omkarkangane2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarkangane2005/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/omkarkangane2005/DSA/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/omkarkangane2005/DSA/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/omkarkangane2005/DSA/tree/master/0875-koko-eating-bananas) |
+| [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Math
 |  |
 | ------- |
@@ -135,8 +137,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkarkangane2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
+| [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->

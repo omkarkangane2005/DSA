@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/omkarkangane2005/DSA/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkarkangane2005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/omkarkangane2005/DSA/tree/master/0283-move-zeroes) |
+| [0567-permutation-in-string](https://github.com/omkarkangane2005/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/omkarkangane2005/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/omkarkangane2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarkangane2005/DSA/tree/master/0977-squares-of-a-sorted-array) |
@@ -94,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkarkangane2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/omkarkangane2005/DSA/tree/master/0125-valid-palindrome) |
+| [0567-permutation-in-string](https://github.com/omkarkangane2005/DSA/tree/master/0567-permutation-in-string) |
 | [0844-backspace-string-compare](https://github.com/omkarkangane2005/DSA/tree/master/0844-backspace-string-compare) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/omkarkangane2005/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 ## Greedy
@@ -113,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkarkangane2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0567-permutation-in-string](https://github.com/omkarkangane2005/DSA/tree/master/0567-permutation-in-string) |
 | [0884-uncommon-words-from-two-sentences](https://github.com/omkarkangane2005/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
 ## Counting
@@ -136,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkarkangane2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0209-minimum-size-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
+| [0567-permutation-in-string](https://github.com/omkarkangane2005/DSA/tree/master/0567-permutation-in-string) |
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 ## Prefix Sum

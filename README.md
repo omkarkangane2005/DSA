@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0025-reverse-nodes-in-k-group](https://github.com/omkarkangane2005/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
 | [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/omkarkangane2005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/omkarkangane2005/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/omkarkangane2005/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/omkarkangane2005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkarkangane2005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/omkarkangane2005/DSA/tree/master/0283-move-zeroes) |
@@ -143,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/omkarkangane2005/DSA/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/omkarkangane2005/DSA/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0160-intersection-of-two-linked-lists](https://github.com/omkarkangane2005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
 | [0219-contains-duplicate-ii](https://github.com/omkarkangane2005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/omkarkangane2005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkarkangane2005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |

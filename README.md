@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/omkarkangane2005/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omkarkangane2005/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
+| [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 ## Recursion
 |  |
@@ -15,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/omkarkangane2005/DSA/tree/master/0002-add-two-numbers) |
 | [0024-swap-nodes-in-pairs](https://github.com/omkarkangane2005/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omkarkangane2005/DSA/tree/master/0025-reverse-nodes-in-k-group) |
+| [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/omkarkangane2005/DSA/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/omkarkangane2005/DSA/tree/master/0125-valid-palindrome) |
+| [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/omkarkangane2005/DSA/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/omkarkangane2005/DSA/tree/master/0283-move-zeroes) |
@@ -157,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/omkarkangane2005/DSA/tree/master/0844-backspace-string-compare) |
 ## Simulation

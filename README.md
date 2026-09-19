@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0024-swap-nodes-in-pairs](https://github.com/omkarkangane2005/DSA/tree/master/0024-swap-nodes-in-pairs) |
 | [0025-reverse-nodes-in-k-group](https://github.com/omkarkangane2005/DSA/tree/master/0025-reverse-nodes-in-k-group) |
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omkarkangane2005/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/omkarkangane2005/DSA/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/omkarkangane2005/DSA/tree/master/0160-intersection-of-two-linked-lists) |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/omkarkangane2005/DSA/tree/master/0027-remove-element) |
 | [0061-rotate-list](https://github.com/omkarkangane2005/DSA/tree/master/0061-rotate-list) |
 | [0075-sort-colors](https://github.com/omkarkangane2005/DSA/tree/master/0075-sort-colors) |
+| [0082-remove-duplicates-from-sorted-list-ii](https://github.com/omkarkangane2005/DSA/tree/master/0082-remove-duplicates-from-sorted-list-ii) |
 | [0125-valid-palindrome](https://github.com/omkarkangane2005/DSA/tree/master/0125-valid-palindrome) |
 | [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/omkarkangane2005/DSA/tree/master/0148-sort-list) |

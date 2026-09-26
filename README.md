@@ -249,4 +249,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omkarkangane2005/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+## Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+## Depth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+## Binary Tree
+|  |
+| ------- |
+| [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
 <!---LeetCode Topics End-->

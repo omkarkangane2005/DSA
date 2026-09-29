@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0884-uncommon-words-from-two-sentences](https://github.com/omkarkangane2005/DSA/tree/master/0884-uncommon-words-from-two-sentences) |
 | [1208-get-equal-substrings-within-budget](https://github.com/omkarkangane2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/omkarkangane2005/DSA/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2272-substring-with-largest-variance](https://github.com/omkarkangane2005/DSA/tree/master/2272-substring-with-largest-variance) |
 ## Greedy
 |  |
 | ------- |
@@ -173,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/omkarkangane2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [2272-substring-with-largest-variance](https://github.com/omkarkangane2005/DSA/tree/master/2272-substring-with-largest-variance) |
 ## Counting
 |  |
 | ------- |
@@ -252,6 +254,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0918-maximum-sum-circular-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0918-maximum-sum-circular-subarray) |
 | [0978-longest-turbulent-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omkarkangane2005/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
+| [2272-substring-with-largest-variance](https://github.com/omkarkangane2005/DSA/tree/master/2272-substring-with-largest-variance) |
 ## Tree
 |  |
 | ------- |
@@ -268,4 +271,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+## Enumeration
+|  |
+| ------- |
+| [2272-substring-with-largest-variance](https://github.com/omkarkangane2005/DSA/tree/master/2272-substring-with-largest-variance) |
 <!---LeetCode Topics End-->

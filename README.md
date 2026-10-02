@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/omkarkangane2005/DSA/tree/master/0303-range-sum-query-immutable) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omkarkangane2005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
 | [0485-max-consecutive-ones](https://github.com/omkarkangane2005/DSA/tree/master/0485-max-consecutive-ones) |
+| [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/omkarkangane2005/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarkangane2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0704-binary-search](https://github.com/omkarkangane2005/DSA/tree/master/0704-binary-search) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/omkarkangane2005/DSA/tree/master/0002-add-two-numbers) |
 | [0009-palindrome-number](https://github.com/omkarkangane2005/DSA/tree/master/0009-palindrome-number) |
+| [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 ## Matrix
 |  |
@@ -178,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/omkarkangane2005/DSA/tree/master/0219-contains-duplicate-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/omkarkangane2005/DSA/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/omkarkangane2005/DSA/tree/master/0438-find-all-anagrams-in-a-string) |
+| [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/omkarkangane2005/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarkangane2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0567-permutation-in-string](https://github.com/omkarkangane2005/DSA/tree/master/0567-permutation-in-string) |
@@ -231,6 +234,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0209-minimum-size-subarray-sum) |
 | [0303-range-sum-query-immutable](https://github.com/omkarkangane2005/DSA/tree/master/0303-range-sum-query-immutable) |
+| [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
 | [0525-contiguous-array](https://github.com/omkarkangane2005/DSA/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/omkarkangane2005/DSA/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/omkarkangane2005/DSA/tree/master/0713-subarray-product-less-than-k) |
@@ -304,4 +308,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/omkarkangane2005/DSA/tree/master/0303-range-sum-query-immutable) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->

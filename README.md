@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0978-longest-turbulent-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0978-longest-turbulent-subarray) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1052-grumpy-bookstore-owner](https://github.com/omkarkangane2005/DSA/tree/master/1052-grumpy-bookstore-owner) |
+| [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1191-k-concatenation-maximum-sum](https://github.com/omkarkangane2005/DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarkangane2005/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -189,6 +190,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0904-fruit-into-baskets](https://github.com/omkarkangane2005/DSA/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/omkarkangane2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/omkarkangane2005/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1590-make-sum-divisible-by-p](https://github.com/omkarkangane2005/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [2272-substring-with-largest-variance](https://github.com/omkarkangane2005/DSA/tree/master/2272-substring-with-largest-variance) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/omkarkangane2005/DSA/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/omkarkangane2005/DSA/tree/master/0234-palindrome-linked-list) |
 | [0844-backspace-string-compare](https://github.com/omkarkangane2005/DSA/tree/master/0844-backspace-string-compare) |
+| [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omkarkangane2005/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Simulation
 |  |
@@ -244,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0930-binary-subarrays-with-sum](https://github.com/omkarkangane2005/DSA/tree/master/0930-binary-subarrays-with-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/omkarkangane2005/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
+| [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1208-get-equal-substrings-within-budget](https://github.com/omkarkangane2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarkangane2005/DSA/tree/master/1480-running-sum-of-1d-array) |
@@ -306,6 +310,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Monotonic Stack
 |  |
 | ------- |
+| [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omkarkangane2005/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 ## Design
 |  |

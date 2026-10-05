@@ -298,10 +298,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+| [0437-path-sum-iii](https://github.com/omkarkangane2005/DSA/tree/master/0437-path-sum-iii) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+| [0437-path-sum-iii](https://github.com/omkarkangane2005/DSA/tree/master/0437-path-sum-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/omkarkangane2005/DSA/tree/master/0100-same-tree) |
+| [0437-path-sum-iii](https://github.com/omkarkangane2005/DSA/tree/master/0437-path-sum-iii) |
 ## Enumeration
 |  |
 | ------- |

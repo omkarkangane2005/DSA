@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1590-make-sum-divisible-by-p](https://github.com/omkarkangane2005/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/omkarkangane2005/DSA/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omkarkangane2005/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/omkarkangane2005/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Binary Search
 |  |
 | ------- |
@@ -260,6 +261,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1480-running-sum-of-1d-array](https://github.com/omkarkangane2005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1590-make-sum-divisible-by-p](https://github.com/omkarkangane2005/DSA/tree/master/1590-make-sum-divisible-by-p) |
 | [1838-frequency-of-the-most-frequent-element](https://github.com/omkarkangane2005/DSA/tree/master/1838-frequency-of-the-most-frequent-element) |
+| [1991-find-the-middle-index-in-array](https://github.com/omkarkangane2005/DSA/tree/master/1991-find-the-middle-index-in-array) |
 ## Queue
 |  |
 | ------- |

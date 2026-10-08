@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1191-k-concatenation-maximum-sum](https://github.com/omkarkangane2005/DSA/tree/master/1191-k-concatenation-maximum-sum) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/omkarkangane2005/DSA/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarkangane2005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkarkangane2005/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/omkarkangane2005/DSA/tree/master/1526-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -132,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/omkarkangane2005/DSA/tree/master/0074-search-a-2d-matrix) |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/omkarkangane2005/DSA/tree/master/0378-kth-smallest-element-in-a-sorted-matrix) |
+| [1314-matrix-block-sum](https://github.com/omkarkangane2005/DSA/tree/master/1314-matrix-block-sum) |
 ## Sorting
 |  |
 | ------- |
@@ -260,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1124-longest-well-performing-interval](https://github.com/omkarkangane2005/DSA/tree/master/1124-longest-well-performing-interval) |
 | [1208-get-equal-substrings-within-budget](https://github.com/omkarkangane2005/DSA/tree/master/1208-get-equal-substrings-within-budget) |
 | [1248-count-number-of-nice-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1248-count-number-of-nice-subarrays) |
+| [1314-matrix-block-sum](https://github.com/omkarkangane2005/DSA/tree/master/1314-matrix-block-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/omkarkangane2005/DSA/tree/master/1480-running-sum-of-1d-array) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/omkarkangane2005/DSA/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1590-make-sum-divisible-by-p](https://github.com/omkarkangane2005/DSA/tree/master/1590-make-sum-divisible-by-p) |

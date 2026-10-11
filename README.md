@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0844-backspace-string-compare](https://github.com/omkarkangane2005/DSA/tree/master/0844-backspace-string-compare) |
 | [0881-boats-to-save-people](https://github.com/omkarkangane2005/DSA/tree/master/0881-boats-to-save-people) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarkangane2005/DSA/tree/master/0977-squares-of-a-sorted-array) |
+| [0986-interval-list-intersections](https://github.com/omkarkangane2005/DSA/tree/master/0986-interval-list-intersections) |
 ## Array
 |  |
 | ------- |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0974-subarray-sums-divisible-by-k](https://github.com/omkarkangane2005/DSA/tree/master/0974-subarray-sums-divisible-by-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/omkarkangane2005/DSA/tree/master/0977-squares-of-a-sorted-array) |
 | [0978-longest-turbulent-subarray](https://github.com/omkarkangane2005/DSA/tree/master/0978-longest-turbulent-subarray) |
+| [0986-interval-list-intersections](https://github.com/omkarkangane2005/DSA/tree/master/0986-interval-list-intersections) |
 | [1004-max-consecutive-ones-iii](https://github.com/omkarkangane2005/DSA/tree/master/1004-max-consecutive-ones-iii) |
 | [1031-maximum-sum-of-two-non-overlapping-subarrays](https://github.com/omkarkangane2005/DSA/tree/master/1031-maximum-sum-of-two-non-overlapping-subarrays) |
 | [1052-grumpy-bookstore-owner](https://github.com/omkarkangane2005/DSA/tree/master/1052-grumpy-bookstore-owner) |
@@ -346,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0523-continuous-subarray-sum](https://github.com/omkarkangane2005/DSA/tree/master/0523-continuous-subarray-sum) |
+## Sweep Line
+|  |
+| ------- |
+| [0986-interval-list-intersections](https://github.com/omkarkangane2005/DSA/tree/master/0986-interval-list-intersections) |
 <!---LeetCode Topics End-->
